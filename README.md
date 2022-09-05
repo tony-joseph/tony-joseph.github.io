@@ -1,9 +1,13 @@
-# Tony Joseph
+# Hello, World! 
 
-I'm Tony. I code in Python and Javascript and create websites with Django and React. I'm employed at
-[Labglo Technologies](https://wwws.labglo.com) as a software engineer.
+My name is Tony Joseph. I write code in Python, Javascript, Typescript and occasionally in Go. Most of my work is related to web applications and for that I use Django, Flask, NodeJs and React. Visit my [website](https://tonyj.me/) if you want to know more about me.
 
-If you want to know more about me, visit my home page at [Tony J](https://tonyj.me) or contact me
-[here](https://tonyj.me/contact-me/).
+
+
+**Find me on**
+
+* [Website](https://tonyj.me/)
+* [Twitter](https://twitter.com/TJTONYJ)
+* [LinkedIn](https://www.linkedin.com/in/tony-joseph-413016195/)
 
 ---
